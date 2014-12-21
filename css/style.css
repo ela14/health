@@ -189,7 +189,7 @@ background:url(../images/footer_bg.jpg);
 	margin-bottom: 0 !important;
 	padding-bottom: 0;
 }
-.newsletter-box input#appendedInputButton {
+input#appendedInputButton {
 	background: #FFFFFF;
 	display: inline-block;
 	float: left;
@@ -263,7 +263,7 @@ background:url(../images/footer_bg.jpg);
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-.footer-bottom p.pull-left {
+p.pull-left {
 	padding-top: 6px;
 }
 .payments {
@@ -413,7 +413,7 @@ section {
     padding: 20px 15px;
 }
 
-.dl .coupon a.open-code {
+a.open-code {
     color: #16a085;
 }
 
